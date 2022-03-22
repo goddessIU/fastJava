@@ -1,5 +1,5 @@
-public  class liao2 {
-}
+//public  class liao2 {
+//}
 
 //class Person {
 //    private String name;
@@ -41,12 +41,12 @@ public  class liao2 {
 //    }
 //}
 
-class Hello {
-    public void hello() {
-        System.out.println("aaa");
-    }
-
-    public void hello(String name) {
-        System.out.println("aaa" + name);
-    }
-}
+//class Hello {
+//    public void hello() {
+//        System.out.println("aaa");
+//    }
+//
+//    public void hello(String name) {
+//        System.out.println("aaa" + name);
+//    }
+//}
